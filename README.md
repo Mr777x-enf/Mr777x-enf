@@ -127,7 +127,7 @@ https://leetcode.com/u/mr777x/
 
 🔵 Codeforces
 
-https://codeforces.com/profile/mr777x
+https://codeforces.com/profile/NitishYadav-777X
 
 🟤 CodeChef
 
